@@ -1,0 +1,85 @@
+Begin : 2021 04 03
+uninstall node , then install again, ensure the local env is clean.
+delete C:\Users\Andy Hua\node_modules\
+
+npm-v : 6.11.3
+node-v: v12.12.0
+
+npm install -g create-react-app
+
+create-react-app todolist
+
+>> to install older version react 16.3.2.
+create-react-app todolist --scripts-version 1.1.4
+cd todolist
+npm install --save react@16.3.2
+npm install --save react-dom@16.3.2
+
+
+npm install -g yarn
+yarn add axios
+
+yarn add react-transition-group
+
+yarn add antd
+
+yarn add redux
+
+yarn add redux-thunk
+
+yarn add redux-saga
+
+yarn add react-redux
+
+================ practice for jianshu ==========================
+create-react-app jianshu --scripts-version 1.1.4
+cd jianshu
+npm install --save react@16.3.2
+npm install --save react-dom@16.3.2
+
+yarn add styled-components@3.3.2
+
+yarn add react-transition-group
+
+yarn add redux
+
+yarn add react-redux
+
+yarn add immutable
+
+yarn add redux-immutable
+
+yarn add redux-thunk
+
+yarn add axios
+
+yarn add react-router-dom
+
+yarn add react-loadable
+
+
+
+================ for testing ==========================
+, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()]
+
+npm -g install npm@6.11.3
+node -v >>> 7.10.1
+
+npm install -g create-react-app@1.5.2
+npm install -g create-react-app
+
+create-react-app todolist
+
+
+npm install -g yarn
+npm uninstall -g create-react-app
+npm install --save react@17.0.1
+yarn add react@16.3.2 --save
+
+npm uninstall -g react@16.3.2
+
+npm install webpack webpack-cli -g
+npm uninstall webpack@1.12.2 webpack-cli -g
+
+
+create-react-app my-app-test --scripts-version 16.3.2

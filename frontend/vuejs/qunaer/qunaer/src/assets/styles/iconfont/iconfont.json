@@ -1,0 +1,37 @@
+{
+  "id": "2551305",
+  "name": "travel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9874536",
+      "name": "KHCFDC_图片",
+      "font_class": "tupian",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "521533",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "608351",
+      "name": "箭头",
+      "font_class": "jiantouarrow486",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "7720065",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [{
+                "id": "0001",
+                "imgurl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201910/e7eac5a5e99e6517c61b953c0fece63b.jpg_750x200_4b701cf8.jpg"
+            },
+            {
+                "id": "0002",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1706/b8/a8e8ff02b094c802.jpg_750x200_ddaec8e5.jpg"
+            }
+        ],
+        "iconList": [{
+                "id": "1",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                "desc": "景点门票"
+            },
+            {
+                "id": "2",
+                "imgurl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+                "desc": "自然风光"
+            },
+            {
+                "id": "3",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+                "desc": "名胜古迹"
+            },
+            {
+                "id": "4",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+                "desc": "玻璃桥"
+            },
+            {
+                "id": "5",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+                "desc": "天门山公园"
+            },
+            {
+                "id": "6",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1803/67/9a1678221b8e0e02.png",
+                "desc": "古北水镇"
+            },
+            {
+                "id": "7",
+                "imgurl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/338c5b924c5809e8c7b14f60a953c3e2.png",
+                "desc": "欢乐谷万圣节"
+            },
+            {
+                "id": "8",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+                "desc": "赏红叶"
+            },
+            {
+                "id": "9",
+                "imgurl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+                "desc": "泡温泉"
+            }
+        ],
+        "recommendList": [{
+                "id": "001",
+                "imgurl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            },
+            {
+                "id": "002",
+                "imgurl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            },
+            {
+                "id": "003",
+                "imgurl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            },
+            {
+                "id": "004",
+                "imgurl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            }
+        ],
+        "weekendList": [{
+                "id": "001",
+                "imgurl": "http://img1.qunarzz.com/sight/source/1811/f3/86173f863bef61.jpg_r_640x214_52b003ac.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            },
+            {
+                "id": "002",
+                "imgurl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            },
+            {
+                "id": "003",
+                "imgurl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            },
+            {
+                "id": "004",
+                "imgurl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+                "title": "故宫",
+                "desc": "世界五大宫之首，穿越与您近在咫尺"
+            }
+        ]
+    }
+}

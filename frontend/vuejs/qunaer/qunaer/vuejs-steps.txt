@@ -1,0 +1,39 @@
+git,github,gitlab，码云的区别::::
+git 是版本控制工具。
+github https://github.com/和gitlab https://about.gitlab.com/都是基于git仓库的web开发流程代码托管平台。两者的区别是github有私有仓库和共有仓库，私有仓库一般收费，gitlab打破这种限制，可以免费搭建私有仓库，并且可以部署在自己的服务器上。gitlab不仅有github的功能，还有更多的优秀特性，比如权限设置。一般企业内部软件产品用gitlab是更好的选择，如果是开源产品，一般放在github上。
+码云https://gitee.com/enterprises?from=tg-6-7是开源中国社区推出的基于git的代码托管服务平台，基于gitlab。目前招商银行，中国科学技术大学，CSDN等多家企业和机构都在使用码云平台
+————————————————
+
+node -v : v7.10.1
+npm-v: 5.5.1
+
+vue-cli: 2.8.2
+
+latest is @vue/cli...
+
+for the old vue-cli
+npm install -g vue-cli@2.8.2
+vue init webpack qunaer
+
+ cd qunaer
+  npm run dev
+
+npm install fastclick --save
+npm install stylus@0.54.5 --save
+npm install stylus-loader@3.0.1 --save
+npm install vue-awesome-swiper@2.6.7 --save
+以上的版本号很重要， 要不然就报错
+npm install axios@0.17.1 --save
+npm install better-scroll@1.8.1 --save
+npm install vuex@3.0.1 --save
+
+npm run build //打包编译， 生成dist目录， 只要这个目录
+
+npm install babel-polyfill --save   // in order to suit old version android phone
+
+
+要想高亮显示就必须安装：插件 Vue Syntax Hightlight
+首先：打开你的sublime，然后打开 PackageControl 如下图,快捷键 Ctrl+Shift+P。
+其次：选中Pachage Control:Install Package,直接回车
+直接选中Vue Syntax  Highlight
+

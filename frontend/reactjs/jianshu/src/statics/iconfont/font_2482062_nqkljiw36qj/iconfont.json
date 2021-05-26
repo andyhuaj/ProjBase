@@ -1,0 +1,30 @@
+{
+  "id": "2482062",
+  "name": "jianshu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "485766",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1621077",
+      "name": "Aa",
+      "font_class": "Aa",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "14666025",
+      "name": "笔",
+      "font_class": "bi",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+    "ret": true, 
+    "data": {
+        "city": "北京", 
+        "iconList": [
+            {
+                "id": "001", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/piao.png", 
+                "desc": "热门景点"
+            }, 
+            {
+                "id": "002", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/flight.png", 
+                "desc": "机票"
+            }, 
+            {
+                "id": "003", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/train.png", 
+                "desc": "火车票"
+            }, 
+            {
+                "id": "004", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/package.png", 
+                "desc": "度假1"
+            }, 
+            {
+                "id": "005", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/hotel.png", 
+                "desc": "酒店"
+            }, 
+            {
+                "id": "006", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/package.png", 
+                "desc": "度假2"
+            }, 
+            {
+                "id": "007", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/package.png", 
+                "desc": "度假3"
+            }, 
+            {
+                "id": "008", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/package.png", 
+                "desc": "度假4"
+            }, 
+            {
+                "id": "009", 
+                "imgUrl": "https://s.qunarzz.com/homenode/images/touchheader/hotel.png", 
+                "desc": "酒店2"
+            }
+        ], 
+        "swiperList": [
+            {
+                "id": "001", 
+                "imgUrl": "https://imgs.qunarzz.com/vs_ceph_b2c_001/d8c38d90-3808-40ca-aeec-50eaa00fe91b.jpg_r_390x260x95_50ee1e90.jpg"
+            }, 
+            {
+                "id": "002", 
+                "imgUrl": "https://imgs.qunarzz.com/vs_ceph_b2c_001/78ebf2c4-5ff1-41de-bc76-fe9bb2e7d2af.jpg_r_390x260x95_8721be73.jpg"
+            }
+        ], 
+        "recommendList": [
+            {
+                "id": "001", 
+                "imgUrl": "https://imgs.qunarzz.com/p/p48/201302/28/bc44faa497db0dcf93835fbb.jpg_256x160_0ba13461.jpg", 
+                "title": "泰国跟团游", 
+                "desc": "错峰出行，火爆预售🔥直飞曼芭沙7日♥一天自由活动♥五钻酒店♥快艇出海沙美岛"
+            }, 
+            {
+                "id": "002", 
+                "imgUrl": "https://imgs.qunarzz.com/p/p48/201302/28/bc44faa497db0dcf93835fbb.jpg_256x160_0ba13461.jpg", 
+                "title": "泰国跟团游", 
+                "desc": "错峰出行，火爆预售🔥直飞曼芭沙7日♥一天自由活动♥五钻酒店♥快艇出海沙美岛"
+            }, 
+            {
+                "id": "003", 
+                "imgUrl": "https://imgs.qunarzz.com/p/p48/201302/28/bc44faa497db0dcf93835fbb.jpg_256x160_0ba13461.jpg", 
+                "title": "泰国跟团游", 
+                "desc": "错峰出行，火爆预售🔥直飞曼芭沙7日♥一天自由活动♥五钻酒店♥快艇出海沙美岛"
+            }, 
+            {
+                "id": "004", 
+                "imgUrl": "https://imgs.qunarzz.com/p/p48/201302/28/bc44faa497db0dcf93835fbb.jpg_256x160_0ba13461.jpg", 
+                "title": "泰国跟团游", 
+                "desc": "错峰出行，火爆预售🔥直飞曼芭沙7日♥一天自由活动♥五钻酒店♥快艇出海沙美岛"
+            }
+        ], 
+        "weekendList": [
+            {
+                "id": "001", 
+                "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vcimg/c0a60fa20379efa4f02ce527a680dc1b.jpeg", 
+                "title": "杭盖草原", 
+                "desc": "错峰出行，火爆预售🔥直飞曼芭沙7日♥一天自由活动♥五钻酒店♥快艇出海沙美岛"
+            }, 
+            {
+                "id": "002", 
+                "imgUrl": "https://imgs.qunarzz.com/vs_ceph_vcimg/c0a60fa20379efa4f02ce527a680dc1b.jpeg", 
+                "title": "杭盖草原", 
+                "desc": "错峰出行，火爆预售🔥直飞曼芭沙7日♥一天自由活动♥五钻酒店♥快艇出海沙美岛"
+            }
+        ]
+    }
+}
